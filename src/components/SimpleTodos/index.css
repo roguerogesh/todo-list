@@ -1,0 +1,32 @@
+.container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.small-container {
+  background-color: #ffffff;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 150px;
+}
+
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-size: 35px;
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
