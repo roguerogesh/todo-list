@@ -1,6 +1,6 @@
 import {Component} from 'react'
 
-import TodoItem from './components/TodoItem'
+import TodoItem from '../TodoItem'
 
 import './index.css'
 
